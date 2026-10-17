@@ -1,0 +1,4 @@
+interface:
+  display_name: "Relative Typography · 中英相对排版"
+  short_description: "按阅读基准、内容宽度与语义层级，编排网页、画布和展板的中英字号与字重"
+  default_prompt: "使用 $relative-typography，根据阅读情境、内容栏宽和语义层级，为当前页面建立中英文字号、字重与间距的相对映射。"
